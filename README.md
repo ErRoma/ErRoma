@@ -1,5 +1,5 @@
 
-![Banner with Roma Pandey, Software Developer, Founder of iqbotics, Mentors]
+![Banner with Roma Pandey, Software Developer]
 <h1 align="center">Hi 👋, I'm Roma Pandey 👋 👋🏾 👩🏾‍💻</h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
