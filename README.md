@@ -1,5 +1,5 @@
 
-![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
+![Banner with Roma Pandey, Software Developer, Founder of iqbotics, Mentors]
 <h1 align="center">Hi 👋, I'm Roma Pandey 👋 👋🏾 👩🏾‍💻</h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
@@ -14,7 +14,7 @@
 <br>
 
 ## Find me around the web 🌎: 
-<a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
+<a href="https://github.com/ErRoma" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on Interview app API
 - 💬 Ask me about Development & design
 - 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼
-- 😄 Pronouns: CHANDAN
+- 😄 Pronouns: Roma
 - ⚡ Fun fact: Ironman == Fe-male
 <dl>
   <dt>Markdown in HTML</dt>
